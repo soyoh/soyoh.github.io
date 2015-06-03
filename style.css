@@ -1,0 +1,17 @@
+html,body{margin:0px;padding:0px;font-family:"Trebuchet MS"; font-size:12px; background:url('img/white_texture.png') center top; color:#656565;}
+html{  }
+.clear{clear: both}
+
+
+#dezarrolla { 
+	display: block;
+    position: relative;
+    margin: 0px auto;
+    width: 960px;
+    height: 318px; 
+    text-align: center; 
+    z-index: 1;
+}
+
+#dez_logo { position: absolute; left: 150px;  top: 125px; }
+	#twt_logo { position: absolute; left: 750px; top:250px; }
